@@ -5,7 +5,7 @@ ANGGOTA :<BR>
 <BR>
 1. ADITYA NUR FACHRIZAL &nbsp; 17.83.0017 <BR>
 2. AGUNG TRI LAKSONO   &nbsp;  &nbsp;  &nbsp; 17.83.0031 <BR>
-3. M.ALVIAN H.NASUTION &nbsp; 17.83.0059 <BR>
+3. M.ALVIAN H.NASUTION &nbsp;  &nbsp; 17.83.0059 <BR>
 <BR>
 
 
