@@ -10,11 +10,13 @@
 <p>Satu program yaitu konversi kalimat ke bilangan biner hanya bisa di enkripsi. Untuk Dekripsi nya sendiri masih belum bisa kelompok kami selesaikan karena terjadi error pada saat pengerjaan nya.&nbsp;</p>
 <p>Untuk program Enkripsi dan Dekripsi file fungsi nya agar tulisan yang ada di file tersebut akan ter enkripsi dan apabila ingin di dekripsi harus memasukkan kunci pada saat enkripsi. Jadi file yang penting akan aman jika di Enkripsi terlebih dahulu.</p>
 <p>&nbsp;</p>
-<p>SEKIAN HASIL FINAL PROJECT PEMOGRAMAN C++ YANG KELOMPOK KAMI BUAT. TERIMA KASIH MOHON MAAF JIKA BANYAK KEKURANGAN.</p>
+<p>Sekian Hasil Final Project c++ Yang Kami Buat :)</p>
+<p>reference :</p>
+<p><a href="https://codescracker.com/cpp/program/cpp-program-encrypt-file.htm">https://codescracker.com/cpp/program/cpp-program-encrypt-file.html</a></p>
+<p><a href="https://www.kodedasar.com/operator-cpp/">https://www.kodedasar.com/operator-cpp/</a></p>
 <p>&nbsp;</p>
 <p>TTD</p>
 <p>&nbsp;</p>
 <p>KELOMPOK 3</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
