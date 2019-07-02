@@ -14,6 +14,7 @@
 <p>reference :</p>
 <p><a href="https://codescracker.com/cpp/program/cpp-program-encrypt-file.htm">https://codescracker.com/cpp/program/cpp-program-encrypt-file.html</a></p>
 <p><a href="https://www.kodedasar.com/operator-cpp/">https://www.kodedasar.com/operator-cpp/</a></p>
+<p><a href="https://www.javatpoint.com/cpp-program-to-convert-decimal-to-binary/</a></p>
 <p>&nbsp;</p>
 <p>TTD</p>
 <p>&nbsp;</p>
