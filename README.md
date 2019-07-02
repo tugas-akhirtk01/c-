@@ -1,17 +1,20 @@
-FINAL PPROJECT PEMOGRAMAN C++<BR>
-  
-KELOMPOK 3<BR>
-ANGGOTA :<BR>
-<BR>
-1. ADITYA NUR FACHRIZAL &nbsp; 17.83.0017 <BR>
-2. AGUNG TRI LAKSONO   &nbsp;  &nbsp;  &nbsp; 17.83.0031 <BR>
-3. M.ALVIAN H.NASUTION &nbsp;  &nbsp; 17.83.0059 <BR>
-<BR>
-  
-<p>Disini kelompok kami membuat kumpulan tools yang dimana tools berikut mencangkup tentang security atau cyber ,disini terdapat beberapa tools seperti</p>
-<p>1. Enkripsi dan Dekripsi Isi file menggunakan Chiper</p>
-<p>2. Konversi Huruf Alpabet ke biner</p>
-<p>3.&nbsp;</p>
+<p>FINAL PPROJECT PEMOGRAMAN C++</p>
+<p>KELOMPOK 3<br />ANGGOTA :<br /><br /></p>
+<ol>
+<li>ADITYA NUR FACHRIZAL&nbsp; &nbsp; 17.83.0017&nbsp;</li>
+<li>AGUNG TRI LAKSONO&nbsp; &nbsp; &nbsp; &nbsp; 17.83.0031&nbsp;</li>
+<li>M.ALVIAN H.NASUTION&nbsp; &nbsp; &nbsp; 17.83.0059&nbsp;</li>
+</ol>
 <p>&nbsp;</p>
-
+<p>Disini kelompok kami membuat kumpulan tools yang dimana tools berikut mencangkup tentang security atau cyber. Tools tersebut berguna untuk merahasiakan sebuah pesan dengan metode enkripsi dan dekripsi. Adapun ada satu program yang bisa mengenkripsi sebuah file.&nbsp;</p>
+<p>Satu program yaitu konversi kalimat ke bilangan biner hanya bisa di enkripsi. Untuk Dekripsi nya sendiri masih belum bisa kelompok kami selesaikan karena terjadi error pada saat pengerjaan nya.&nbsp;</p>
+<p>Untuk program Enkripsi dan Dekripsi file fungsi nya agar tulisan yang ada di file tersebut akan ter enkripsi dan apabila ingin di dekripsi harus memasukkan kunci pada saat enkripsi. Jadi file yang penting akan aman jika di Enkripsi terlebih dahulu.</p>
+<p>&nbsp;</p>
+<p>SEKIAN HASIL FINAL PROJECT PEMOGRAMAN C++ YANG KELOMPOK KAMI BUAT. TERIMA KASIH MOHON MAAF JIKA BANYAK KEKURANGAN.</p>
+<p>&nbsp;</p>
+<p>TTD</p>
+<p>&nbsp;</p>
+<p>KELOMPOK 3</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
