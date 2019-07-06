@@ -8,8 +8,8 @@ int main() {
 char text [100];
 int Age; char FileName[20];
 
-	cout << "Enter text: "; cin >> text;
-	cout << "\nEnter the name of the file you want to create: ";
+	cout << "Masukkan Isi Text: "; cin >> text;
+	cout << "\nMasukan Nama File Yang Ingin Kalian Buat: ";
 	cin >> FileName;
 	ofstream Students(FileName, ios::out);
 	Students  << "\n" << text;
