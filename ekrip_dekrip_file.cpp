@@ -56,7 +56,7 @@ int main() {
 	return 0;
 }
 
-//Used Functions
+//untuk Functions
 int mod(int x, int y) {
 	return ((x % y) + y) % y;
 }
