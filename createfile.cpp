@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 char text [100];
-int Age; char FileName[20];
+char FileName[20];
 
 	cout << "Masukkan Isi Text: "; cin >> text;
 	cout << "\nMasukan Nama File Yang Ingin Kalian Buat: ";
