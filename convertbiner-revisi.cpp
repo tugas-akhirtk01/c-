@@ -3,13 +3,13 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    printf("jumlah karakter pesan rahasia: ");
-    scanf("%d", &a);
+    int a, b;                                                       //mendeklarasikan tipe data
+    printf("jumlah karakter pesan rahasia: ");                      //untuk menampilkan jumlah keluaran data
+    scanf("%d", &a);                                                //untuk membaca masukkan data
 
-    char tulisan[a];
+    char tulisan[a];                                                //untuk mendeskripsikan karakter yang digunakan
 
-    printf("Masukkan %d karakter huruf : ", a);
+    printf("Masukkan %d karakter huruf : ", a);                     //untuk menampilkan jumlah keluaran data
     //scanf("%d", &a);
 
     for(b = 0; b < a + 1; b++)
