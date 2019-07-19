@@ -5,13 +5,13 @@ using namespace std;
 
 
 int main() {
-char text [100];
-char FileName[20];
+char text [100];								//untuk mendeskripsikan karakter yang digunakan
+char FileName[20];								//untuk mendeskripsikan karakter yang digunakan
 
-	cout << "Masukkan Isi Text: "; cin >> text;
+	cout << "Masukkan Isi Text: "; cin >> text;				//menampilkan suatu kalimat/data ke layar
 	cout << "\nMasukan Nama File Yang Ingin Kalian Buat: ";
-	cin >> FileName;
-	ofstream Students(FileName, ios::out);
+	cin >> FileName;							//mendapatkan masukkan / input dari user
+	ofstream Students(FileName, ios::out);					//untuk melakukan penulisan ke dalam file
 	Students  << "\n" << text;
 	cout << "\n\n";
 	
